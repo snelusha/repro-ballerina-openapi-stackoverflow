@@ -1,0 +1,8 @@
+[package]
+org = "sithi"
+name = "ballerina_openapi_tool_stackoverflow_repro"
+version = "0.0.0"
+distribution = "2201.12.7"
+
+[build-options]
+observabilityIncluded = true
